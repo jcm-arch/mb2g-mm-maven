@@ -134,6 +134,9 @@ Desktop.ini
 # Maven Wrapper
 ######################
 !.mvn/wrapper/maven-wrapper.jar
+*createdFiles.lst
+*inputFiles.lst
+.flattened-pom.xml
 
 ######################
 # ESLint
